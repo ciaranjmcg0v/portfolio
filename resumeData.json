@@ -1,0 +1,122 @@
+{
+  "main": {
+    "name": "Ciaran McGovern",
+    "occupation": "Software Engineer",
+    "description": "I leveridge AI to create beautiful and modern web apps",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I'm Ciaran, a self taught software engineer based in Scotland. I've been working with computers since I was 12 years old (20 years!) and I started my own software company called Technatro, back in 2020. My main goal in life is to help contribute to the advance of technology, so it can be harnessed effectively to help people all across the world live a better quality of life. To achieve this, I leveridge the use of artificial intelligence for processing vast amounts of data and providing valuable insights, which can then be converted to ideas.",
+    "contactmessage": "If you would like to get in touch, here's how:",
+    "email": "ciaranjmcgov@technatro.com",
+    "phone": "+447951742811",
+    "address": {
+      "street": "103 Rimbleton Avenue",
+      "city": "Glenrothes",
+      "state": "Fife",
+      "zip": "KY6 2DR"
+    },
+    "website": "https://www.technatro.com",
+    "resumedownload": "https://1drv.ms/b/s!AmdYwJJS0WVugZnNXufnqjBLsS5BkGs?e=fIFeVa",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCWPJYOr5K3vVbMdk-70aXhQ",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/hiyaitsciaran",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ciaranjmcgov/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/hiyaitsciaran/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/ciaranjmcg0v",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Skillset",
+    "education": [
+      {
+        "school": "The Open University - UK",
+        "degree": "Bachelor's Degree, Computing & IT",
+        "graduated": "July 2026",
+        "description": "Graduated with First Class Honours" 
+      }
+    ],
+    "work": [
+      {
+        "company": "Technatro",
+        "title": "Founder and CEO",
+        "years": "June 2020 - Present",
+        "description": "Computer software company using AI to improve help people all over the world live a better quality of life."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "95%"
+      },
+      {
+        "name": "C#",
+        "level": "90%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "90%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "",
+        "category": "",
+        "image": "",
+        "url": ""
+      },
+      {
+        "title": "",
+        "category": "",
+        "image": "",
+        "url": ""
+      },
+      {
+        "title": "",
+        "category": "",
+        "image": "",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      },
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
